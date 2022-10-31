@@ -13,15 +13,17 @@
 
 html {
 	font-size: 10px;
-	width: 100vw;
-	height: 100vh;
-	overflow: hidden;
 }
 
 body {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 100vw;
+	height: 100vh;
 	background-color: var(--lightgray);
 	font-family: 'Outfit', sans-serif;
-	height: 100%;
+	overflow-x: hidden;
 }
 
 img {
@@ -79,8 +81,9 @@ img {
 	color: hsl(228, 45%, 44%);
 }
 
-@media screen and (min-width: 576px) {
+@media screen and (min-width: 577px) {
 	.container {
+		width: 1440px;
 		max-width: 1440px;
 	}
 }
