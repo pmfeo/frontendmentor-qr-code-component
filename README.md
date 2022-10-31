@@ -34,8 +34,8 @@ https://prnt.sc/1021ngZDFGSH
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@pmfeo](https://www.frontendmentor.io/profile/pmfeo)
 
 ## Acknowledgments
 
-My family.
+To my family. Always.
